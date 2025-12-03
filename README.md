@@ -12,10 +12,16 @@
 151625个子域名总请求数：248021，耗时：1325.73秒 （约22分钟），期间最大并发数：780，成功率：**100%** ，内存占用率仅20MB左右。
 程序首页。
 <img width="1331" height="813" alt="subsonic首页" src="https://github.com/user-attachments/assets/67acef3d-0a43-4b7f-84a3-652630a0332a" />
+
+
 两阶段扫描：主扫描与错误重试扫描。
 <img width="1281" height="763" alt="错误重试-扫描结果" src="https://github.com/user-attachments/assets/d5427fe8-d2a8-4e7c-88bb-4411f1d7b698" />
+
+
 内存占用截图。
 <img width="1278" height="712" alt="内存占用截图" src="https://github.com/user-attachments/assets/3ff9bb28-7420-48d2-94ec-329baf21bace" />
+
+
 自适应发包调整日志。
 <img width="1271" height="798" alt="自适应发包调整截图" src="https://github.com/user-attachments/assets/0af7a347-eb43-473a-a582-95fea52045ad" />
 
