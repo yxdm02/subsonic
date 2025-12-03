@@ -241,7 +241,7 @@ SubSonic 的高性能并非偶然，它建立在一系列精心设计的、充�
 ## 使用指南
 
 1.  **启动程序**后，在浏览器中打开 `http://localhost:8080`。
-    ![subsonic首页]([pic\subsonic首页.png](pic\subsonic首页.png))
+    ![subsonic首页]([pic\subsonic首页.png](pic\subsonic-01.png))
     
 2.  在 **“扫描配置”** 区域输入目标域名。
 3.  选择一个内置的字典，或上传您自己的字典文件（推荐使用自定义字典）。
