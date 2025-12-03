@@ -8,6 +8,14 @@
 
 ---
 
+##  SubSonic 程序运行图
+151625个子域名总请求数：248021，耗时：1325.73秒 （约22分钟），期间最大并发数：780，成功率：**100%** ，内存占用率仅20MB左右。
+<img width="1331" height="813" alt="subsonic首页" src="https://github.com/user-attachments/assets/67acef3d-0a43-4b7f-84a3-652630a0332a" />
+<img width="1281" height="763" alt="错误重试-扫描结果" src="https://github.com/user-attachments/assets/d5427fe8-d2a8-4e7c-88bb-4411f1d7b698" />
+<img width="1278" height="712" alt="内存占用截图" src="https://github.com/user-attachments/assets/3ff9bb28-7420-48d2-94ec-329baf21bace" />
+<img width="1271" height="798" alt="自适应发包调整截图" src="https://github.com/user-attachments/assets/0af7a347-eb43-473a-a582-95fea52045ad" />
+
+
 ## 为什么选择 SubSonic？
 
 Subsonic 在设计上追求极致的用户体验与扫描性能的平衡，其核心优势体现在以下五个维度：
